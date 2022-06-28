@@ -1,6 +1,6 @@
 # Indecision App
 
-Aplicación que contesta a tus preguntas o predice el futuro que le plantees ;)
+Aplicación que contesta a tus preguntas y predice tu futuro ;)
 
 ## Resultado final
 
