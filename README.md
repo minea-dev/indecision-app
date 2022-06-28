@@ -1,4 +1,6 @@
-# 2-fundamentos
+# Indecision App
+
+Aplicación que contesta a tus preguntas o predice el futuro que le plantees ;)
 
 ## Project setup
 ```
