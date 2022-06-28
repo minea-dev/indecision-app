@@ -2,6 +2,15 @@
 
 Aplicación que contesta a tus preguntas o predice el futuro que le plantees ;)
 
+## Resultado final
+
+https://verdant-maamoul-f9b98a.netlify.app/
+
+## Ejemplos de uso
+
+![image](https://user-images.githubusercontent.com/79474524/176190151-0a098792-7e12-433e-b652-964f2b29e56a.png)
+![image](https://user-images.githubusercontent.com/79474524/176190339-ddabf46b-af68-45a7-894c-2dd2d2d7e547.png)
+
 ## Project setup
 ```
 npm install
